@@ -3,7 +3,7 @@
 
 <div style="text-align: center; padding: 12px">
 
-<h2 style="font-size: 24px":>Programming Language</h2>
+<h2 style="font-size: 24px":>Programming Languages</h2>
 
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="70px" height="70x"></a>
