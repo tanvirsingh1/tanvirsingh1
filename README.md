@@ -1,5 +1,5 @@
 <h2 style="font-size: 24px; text-align: center;">Hello There, I'm Tanvir Singh</h2>
-<h2 style="font-size: 24px; text-align: center;">I am a third-year software development student actively seeking a 4-month summer co-op opportunity in 2024.</h2>
+<h2 style="font-size: 24px; text-align: center;">I am a Fourth Year software development student actively seeking a 4-month winter co-op opportunity in 2025.</h2>
 
 <div style="text-align: center; padding: 12px">
 
