@@ -5,6 +5,7 @@
 
 <h2 style="font-size: 24px":>Programming Languages</h2>
 
+<a href="https://www.python.org/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="70px" height="70x"></a>
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="70px" height="70x"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="70px" height="70x"></a>
